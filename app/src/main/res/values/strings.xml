@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Matte Screen Filter</string>
+    <string name="permission_granted">Overlay permission: granted</string>
+    <string name="permission_not_granted">Overlay permission: not granted</string>
+    <string name="grant_permission">Grant Overlay Permission</string>
+    <string name="turn_on">Turn Filter On</string>
+    <string name="turn_off">Turn Filter Off</string>
+    <string name="intensity_label">Intensity: %d%%</string>
+    <string name="description_text">Simulates a matte / frosted screen protector by layering a subtle grain texture and light diffusion over your screen. Touches pass straight through.</string>
+    <string name="notification_channel_name">Matte Filter</string>
+    <string name="notification_text">Matte filter is active</string>
+</resources>
